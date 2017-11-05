@@ -1,0 +1,9 @@
+.container-fluid {
+  position: absolute;
+  z-index: 15;
+  left: 2%;
+}
+
+body {
+  background-color: #F2F6FF;
+}
